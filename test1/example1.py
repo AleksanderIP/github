@@ -3,6 +3,7 @@ import webbrowser
 import pyttsx3
 import speech_recognition as sr
 
+# Изменение места передачи
 
 def talk(words):
     engine = pyttsx3.init()
